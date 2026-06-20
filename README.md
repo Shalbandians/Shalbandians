@@ -1,7 +1,19 @@
 # 💫 About Me:
-👯 Hi, I'm  <h1> Muhammad Rizwan </h1> — a passionate Full Stack MERN Developer focused on building scalable, high-performance, and user-friendly web applications. I specialize in JavaScript technologies including MongoDB, Express.js, React.js, Next.js, and Node.js.<br><br>I have experience developing modern SaaS platforms, dashboards, WhatsApp automation systems, payment integrations, and cloud-based applications. I enjoy solving real-world problems through clean architecture, optimized backend systems, and responsive frontend experiences.<br><br>Currently, I’m working with technologies like Next.js, AWS, WhatsApp Cloud API, Razorpay, and CI/CD deployments. I’m also continuously improving my skills in scalable system design, cloud infrastructure, and performance optimization.
-<br>
-🚀 Portfolio: [potfolio-eta-two.vercel.app](https://potfolio-eta-two.vercel.app/)
+# 👋 Hi, I'm **Muhammad Rizwan**
+
+🚀 A passionate **Full Stack MERN Developer** focused on building scalable, high-performance, and user-friendly web applications.
+
+I specialize in modern JavaScript technologies including **MongoDB, Express.js, React.js, Next.js, and Node.js**.
+
+I have experience developing **SaaS platforms, admin dashboards, WhatsApp automation systems, payment integrations, and cloud-based applications**. My focus is always on **clean architecture, scalable backend systems, and responsive UI/UX design**.
+
+Currently, I’m working with **Next.js, AWS, WhatsApp Cloud API, Razorpay, and CI/CD pipelines**, while continuously improving my skills in **system design, cloud infrastructure, and performance optimization**.
+
+---
+
+🚀 **Portfolio:** https://potfolio-eta-two.vercel.app/
+
+📞 **Contact:** 0316-4049722
 
 ---
 
