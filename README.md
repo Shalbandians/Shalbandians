@@ -29,7 +29,56 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shalbandians&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/Visit-My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://potfolio-eta-two.vercel.app/)
+## 🚀 Featured Projects
+
+### 🔹 Verisaya – Enterprise SaaS Platform (verisaya.com)
+A full-stack MERN-based SaaS application designed for enterprise workforce and activity management with scalable cloud deployment.
+
+This system includes a Super Admin panel where subscription-based access is managed. Organizations can create multiple admins, coordinators, and employees under a structured hierarchy.
+
+#### 🧩 Key Features:
+- Multi-role system (Super Admin, Admin, Coordinator, Employee)
+- Subscription-based access system
+- Session creation for coordinators
+- Employee activity tracking system
+- QR-based attendance system (Coordinator scans employee QR)
+- Automated attendance report generation
+- User activity tracking & logs
+- Admin dashboard with analytics
+
+#### ☁️ Deployment:
+- Hosted on AWS Cloud infrastructure
+- CI/CD pipeline for automated deployment
+- Production-ready scalable architecture using EC2, S3, CloudFront, Nginx
+
+**Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js), AWS, GitHub Actions, Nginx
+
+---
+
+### 🔹 Vehicle Complaint & Registration WhatsApp Bot
+A WhatsApp automation system for vehicle registration, complaints handling, and payment workflows.
+
+**Tech Stack:** Node.js, Express.js, MongoDB, WhatsApp Cloud API, Razorpay
+
+---
+
+### 🔹 SaaS Admin Dashboard
+Analytics and subscription-based SaaS dashboard with modern UI and reporting system.
+
+**Tech Stack:** Next.js, React.js, Tailwind CSS, Chart.js, Node.js
+
+---
+
+### 🔹 MERN Blog Platform
+Full-stack blog application with authentication, CRUD operations, and responsive UI.
+
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js
+
+---
+
+### 🔹 Payment Integration System
+Razorpay-based payment integration system for web and WhatsApp applications.
+
+**Tech Stack:** Razorpay, Node.js, Express.js, MongoDB
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
