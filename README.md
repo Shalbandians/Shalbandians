@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm **Muhammad Rizwan**
 
 🚀 A passionate **Full Stack MERN Developer** focused on building scalable, high-performance, and user-friendly web applications.
