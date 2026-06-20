@@ -29,56 +29,81 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shalbandians&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🔹 Verisaya – Enterprise SaaS Platform (verisaya.com)
-A full-stack MERN-based SaaS application designed for enterprise workforce and activity management with scalable cloud deployment.
+### 🔹 Verisaya – Enterprise SaaS Platform (AWS + CI/CD + MERN)
+A scalable enterprise-grade SaaS platform designed for workforce management, subscriptions, and activity tracking.
 
-This system includes a Super Admin panel where subscription-based access is managed. Organizations can create multiple admins, coordinators, and employees under a structured hierarchy.
+Supports multi-role system (Super Admin, Admin, Coordinator, Employee) with QR-based attendance and activity monitoring.
 
-#### 🧩 Key Features:
-- Multi-role system (Super Admin, Admin, Coordinator, Employee)
-- Subscription-based access system
-- Session creation for coordinators
-- Employee activity tracking system
-- QR-based attendance system (Coordinator scans employee QR)
-- Automated attendance report generation
-- User activity tracking & logs
-- Admin dashboard with analytics
-
-#### ☁️ Deployment:
-- Hosted on AWS Cloud infrastructure
-- CI/CD pipeline for automated deployment
-- Production-ready scalable architecture using EC2, S3, CloudFront, Nginx
-
-**Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js), AWS, GitHub Actions, Nginx
+**Tech Stack:** MERN Stack, AWS, GitHub Actions, Nginx, CI/CD
 
 ---
 
-### 🔹 Vehicle Complaint & Registration WhatsApp Bot
-A WhatsApp automation system for vehicle registration, complaints handling, and payment workflows.
+### 🔹 GenCyb SaaS Platform
+CI/CD-based SaaS deployment system using GitHub Actions to automate deployment of React frontend and Node.js backend to a VPS server with Docker support.
 
-**Tech Stack:** Node.js, Express.js, MongoDB, WhatsApp Cloud API, Razorpay
+🔗 Live Demo: https://app.gen-cyb.com/
 
----
-
-### 🔹 SaaS Admin Dashboard
-Analytics and subscription-based SaaS dashboard with modern UI and reporting system.
-
-**Tech Stack:** Next.js, React.js, Tailwind CSS, Chart.js, Node.js
+**Tech Stack:** React, Node.js, Docker, Prisma ORM, PostgreSQL, GitHub Actions, VPS
 
 ---
 
-### 🔹 MERN Blog Platform
-Full-stack blog application with authentication, CRUD operations, and responsive UI.
+### 🔹 Scrum Coffee Shop – Management System
+Full-stack coffee shop system with authentication and digital wallet integration.
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js
+**Tech Stack:** Node.js, Express.js, Prisma, PostgreSQL, JWT, Firebase, Google Wallet, Apple Wallet
 
 ---
 
-### 🔹 Payment Integration System
-Razorpay-based payment integration system for web and WhatsApp applications.
+### 🔹 Scan2Alert – VMS Bot
+WhatsApp-based vehicle management system for registration, complaints, and payments.
 
-**Tech Stack:** Razorpay, Node.js, Express.js, MongoDB
+🔗 Live: https://scan2alert.in/
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Tech Stack:** React, Node.js, MongoDB, Express, Razorpay, Webhooks
+
+---
+
+### 🔹 Admin Dashboard
+Full-stack MERN dashboard with real-time analytics and WhatsApp + payment integrations.
+
+🔗 Live: https://admin-dashboard-three-sooty-11.vercel.app/
+
+**Tech Stack:** React, MongoDB Atlas, Express, Socket.io, Vercel
+
+---
+
+### 🔹 Vendor Dashboard
+MERN-based vendor management dashboard for products, orders, and payments with role-based authentication.
+
+🔗 Live: https://vendor-dashboard-nu.vercel.app/
+
+**Tech Stack:** React, MongoDB Atlas, Socket.io, Express, Vercel
+
+---
+
+### 🔹 Multi-Vendor E-commerce Store
+Secure e-commerce platform with Stripe/PayPal/COD payments, real-time chat, coupons, and seller withdrawals.
+
+🔗 Live: https://multi-vender-b42z.vercel.app/
+
+**Tech Stack:** React, MongoDB Atlas, Socket.io, Express, Stripe
+
+---
+
+### 🔹 UME Health Referral Portal
+Secure healthcare referral system with email verification, PDF generation, and appointment scheduling.
+
+🔗 Live: https://ume-health.vercel.app/
+
+**Tech Stack:** React, MongoDB Atlas, Express, Node.js
+
+---
+
+### 🔹 Moving House – Home Shift Platform
+Service booking platform for moving/cleaning services with email verification and improved onboarding flow.
+
+🔗 Live: https://moving-house.vercel.app/
+
+**Tech Stack:** React, TailwindCSS, Material-UI, EmailJS, Node.js, MongoDB
