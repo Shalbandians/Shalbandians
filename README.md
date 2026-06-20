@@ -1,5 +1,22 @@
 # 💫 About Me:
 👯 IHi, I'm Rizwan Ramzan — a passionate Full Stack MERN Developer focused on building scalable, high-performance, and user-friendly web applications. I specialize in JavaScript technologies including MongoDB, Express.js, React.js, Next.js, and Node.js.<br><br>I have experience developing modern SaaS platforms, dashboards, WhatsApp automation systems, payment integrations, and cloud-based applications. I enjoy solving real-world problems through clean architecture, optimized backend systems, and responsive frontend experiences.<br><br>Currently, I’m working with technologies like Next.js, AWS, WhatsApp Cloud API, Razorpay, and CI/CD deployments. I’m also continuously improving my skills in scalable system design, cloud infrastructure, and performance optimization.
+🚀 Portfolio: [potfolio-eta-two.vercel.app](https://potfolio-eta-two.vercel.app/)
+
+---
+
+## 🏆 Certifications
+
+* [AWS Academy Graduate - Cloud Architecting - Training Badge](https://www.credly.com/badges/362c7f82-47e6-4c91-8aea-60d7ef43a08d/linked_in?t=st6isu)
+  
+* [Docker Certified Associate Exam Prep](https://www.coursera.org/account/accomplishments/specialization/U45WG5NQ509K)
+
+* [Developing Back-End Apps with Node.js and Express](https://www.coursera.org/account/accomplishments/verify/EELTBLQXY04N)
+
+* [Mastering Loops: Modern JavaScript Techniques](https://www.udemy.com/certificate/UC-b6d748e1-a9be-47dc-a992-1e2da9ec34e0/)
+
+* [Building Blog using MERN Stack](https://www.udemy.com/certificate/UC-26b8f0b0-dbf2-4c4f-a72d-b1ad2c515b20/)
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-rizwan-093727243/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammadrizwanramzan300@gmail.com) 
